@@ -1,0 +1,1 @@
+INSERT INTO mscostumer.usuario(fnome, lnome , sex, cpf, birthdate, login, senha) VALUES ("vitor", "santos", "masculino","000000000","19-10-1999","vitor", "$2a$10$KDP8m5dLRKgygnTdAfJ1buWsf.zeVuaXD5.h0Zuvf6RZmBCrjf4BO");
